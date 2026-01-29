@@ -84,10 +84,8 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
-  }
 {
-  "cache_time": 9200,
+  "cache_time": 7200,
   "api_site": {
     "api_1": {
       "name": "TV-1080资源",
